@@ -1,7 +1,7 @@
 # Welcome to my GitHub
 <h4>こんにちは、frisk-V5です。<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" height="20px">
 
-  - frisk-V3のサブ垢frisk-V5です
+  - @frisk-V3のサブ垢frisk-V5です
 </h4>
 
 ### GitHub Analytics
