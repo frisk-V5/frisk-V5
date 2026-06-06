@@ -5,7 +5,8 @@
 </h4>
 
 ### GitHub Analytics
-![stats](https://github-readme-stats-eight-theta.vercel.app/api?username=frisk-V5&show_icons=true&theme=tokyonight&count_private=true)![Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=frisk-V5&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=frisk-V5&theme=tokyonight)
+![Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=frisk-V5&theme=tokyonight)
 <p align="left">
  <img src="https://komarev.com/ghpvc/?username=frisk-V5&style=flat-square"/>
  <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dfrisk-V5&longCache=true"/>
